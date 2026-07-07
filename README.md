@@ -95,48 +95,8 @@ No dependencies or package installation required.
 
 ---
 
-## 💻 Local Usage
 
-Since the project is a single static HTML file, you can run it in any of the following ways:
 
-**Option 1 — Open directly in a browser**
-```bash
-open index.html        # macOS
-start index.html        # Windows
-xdg-open index.html     # Linux
-```
-
-**Option 2 — Serve with a local development server (recommended)**
-```bash
-# Using Python
-python3 -m http.server 8000
-
-# Using Node.js (npx)
-npx serve .
-```
-
-Then visit `http://localhost:8000` in your browser.
-
----
-
-## 🚀 Deployment on Vercel
-
-This project can be deployed on [Vercel](https://vercel.com) in minutes, with zero configuration:
-
-1. Push this repository to GitHub.
-2. Go to [vercel.com/new](https://vercel.com/new) and import the repository.
-3. Framework Preset: select **Other** (no build step needed).
-4. Leave the **Build Command** empty and set the **Output Directory** to `./`.
-5. Click **Deploy**.
-
-Vercel will detect `index.html` and serve it as a static site automatically.
-
-Alternatively, deploy via the Vercel CLI:
-
-```bash
-npm i -g vercel
-vercel
-```
 
 ---
 
@@ -196,16 +156,9 @@ Tested and optimized for the latest versions of:
 
 > _Add your deployed Vercel link here._
 
-**Live Site:** [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
+**Live Site:** [https://your-project-name.vercel.app](morphelabs-nextgen-landing-jiflot8u5.vercel.app)
 
 ---
-
-## 🏷️ GitHub Topics
-
-```
-html css javascript landing-page website-design ai-agency
-responsive-design frontend web-development glassmorphism ui-ux single-page-application
-```
 
 ---
 
