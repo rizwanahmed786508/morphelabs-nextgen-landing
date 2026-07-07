@@ -154,9 +154,8 @@ Tested and optimized for the latest versions of:
 
 ## 🔗 Live Demo
 
-> _Add your deployed Vercel link here._
 
-**Live Site:** [https://your-project-name.vercel.app](morphelabs-nextgen-landing-jiflot8u5.vercel.app)
+**Live Site:** [morphelabs-nextgen-landing-jiflot8u5.vercel.app](morphelabs-nextgen-landing-jiflot8u5.vercel.app)
 
 ---
 
